@@ -72,16 +72,6 @@ header {
     clear: both;
 }
 
-.parameters {
-    text-align: center;
-    list-style-type: none;
-    line-height: 175%;
-}
-
-.parameters input {
-    text-align: center;
-}
-
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
     -webkit-appearance: none;
