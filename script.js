@@ -7,10 +7,12 @@ var hasNum = "0123456789";
 var hasNumArray = hasNum.split("");
 var symbol = "!#$%&()*+,-./:;<=>?@^[]^_`{|}~";
 var symbolArray = symbol.split("");
+var generateBtn = document.querySelector("#generate");
+
+// Event listener for generate password function
+generateBtn.addEventListener("click", writePassword);
 
 // Password generation function
-generate.onclick = writePassword();
-
 function writePassword() {
     var allChars = [];
     var resultPass = "";
