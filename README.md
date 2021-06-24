@@ -1,10 +1,10 @@
 # Password Generator 
 
-<<<<<<< HEAD
+
 ## Secure-Password-Generator
 
 This application generates a random password based on user-selected criteria. The application validates user input and ensure that at least one character type is selected. Once all prompts are answered, the user will be presented with a password matching the answered prompts. This application is also responsive, ensuring that it adapts to multiple screen sizes.
-=======
+
 # Secure-Password-Generator
 This application generates a random password based on user-selected criteria. The application validates user input and ensure that at least one character type is selected. Once all prompts are answered, the user will be presented with a password matching the answered prompts. This application is also responsive, ensuring that it adapts to multiple screen sizes.
 
@@ -19,4 +19,4 @@ This application generates a random password based on user-selected criteria. Th
 https://github.com/jnordan132/Secure-Password-Generator
 https://jnordan132.github.io/Secure-Password-Generator/
 
->>>>>>> 6039319a417616d392afd1b0ae7445bcb33443ff
+
